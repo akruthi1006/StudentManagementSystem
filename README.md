@@ -1,5 +1,4 @@
-# StudentManagementSystem
-Python Student Management System Project
+
 # 🎓 Student Management System
 
 A simple **Python project** to manage student records using basic CRUD operations (Create, Read, Update, Delete).  
