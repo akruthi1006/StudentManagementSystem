@@ -19,7 +19,6 @@ Built to practice programming logic, object-oriented concepts, and project struc
 1. Clone this repo  
    ```bash
    git clone https://github.com/akruthi1006/StudentManagementSystem.git
-2. Open the folder in VS Code
-3.Run the main file
-  python main/app.py
+2.Open the folder in VS Code
+3.Run the main file : python main/app.py
 
